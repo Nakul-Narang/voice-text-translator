@@ -1,0 +1,4 @@
+SpeechRecognition>=3.10.0
+googletrans==4.0.0-rc1
+langdetect>=1.0.9
+PyAudio>=0.2.13
